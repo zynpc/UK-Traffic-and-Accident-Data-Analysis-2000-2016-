@@ -40,7 +40,7 @@ Two machine learning models were implemented:
 2. **Linear Regression Model:** Predicts total vehicle count using selected features. Model performance is evaluated using RMSE and R² metrics.
 
 ## Technologies Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
 - Machine Learning (Classification & Regression)
 
